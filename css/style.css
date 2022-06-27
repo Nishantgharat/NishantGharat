@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6,
 /*ikde*/
 h1, .h1 {
   font-size: 2rem;
-  color: #007bff;
+  color: #343a40;
 }
 
 @media (max-width: 1400px) {
